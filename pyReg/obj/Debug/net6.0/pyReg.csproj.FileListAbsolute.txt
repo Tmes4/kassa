@@ -1,0 +1,15 @@
+C:\Users\Ba1al\OneDrive - Curio\Software-Developer-OneDrive\Blok-B\CSD-1\pyReg\pyReg\obj\Debug\net6.0\pyReg.csproj.AssemblyReference.cache
+C:\Users\Ba1al\OneDrive - Curio\Software-Developer-OneDrive\Blok-B\CSD-1\pyReg\pyReg\obj\Debug\net6.0\pyReg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ba1al\OneDrive - Curio\Software-Developer-OneDrive\Blok-B\CSD-1\pyReg\pyReg\obj\Debug\net6.0\pyReg.AssemblyInfoInputs.cache
+C:\Users\Ba1al\OneDrive - Curio\Software-Developer-OneDrive\Blok-B\CSD-1\pyReg\pyReg\obj\Debug\net6.0\pyReg.AssemblyInfo.cs
+C:\Users\Ba1al\OneDrive - Curio\Software-Developer-OneDrive\Blok-B\CSD-1\pyReg\pyReg\obj\Debug\net6.0\pyReg.csproj.CoreCompileInputs.cache
+C:\Users\Ba1al\OneDrive - Curio\Software-Developer-OneDrive\Blok-B\CSD-1\pyReg\pyReg\bin\Debug\net6.0\pyReg.exe
+C:\Users\Ba1al\OneDrive - Curio\Software-Developer-OneDrive\Blok-B\CSD-1\pyReg\pyReg\bin\Debug\net6.0\pyReg.deps.json
+C:\Users\Ba1al\OneDrive - Curio\Software-Developer-OneDrive\Blok-B\CSD-1\pyReg\pyReg\bin\Debug\net6.0\pyReg.runtimeconfig.json
+C:\Users\Ba1al\OneDrive - Curio\Software-Developer-OneDrive\Blok-B\CSD-1\pyReg\pyReg\bin\Debug\net6.0\pyReg.dll
+C:\Users\Ba1al\OneDrive - Curio\Software-Developer-OneDrive\Blok-B\CSD-1\pyReg\pyReg\bin\Debug\net6.0\pyReg.pdb
+C:\Users\Ba1al\OneDrive - Curio\Software-Developer-OneDrive\Blok-B\CSD-1\pyReg\pyReg\obj\Debug\net6.0\pyReg.dll
+C:\Users\Ba1al\OneDrive - Curio\Software-Developer-OneDrive\Blok-B\CSD-1\pyReg\pyReg\obj\Debug\net6.0\refint\pyReg.dll
+C:\Users\Ba1al\OneDrive - Curio\Software-Developer-OneDrive\Blok-B\CSD-1\pyReg\pyReg\obj\Debug\net6.0\pyReg.pdb
+C:\Users\Ba1al\OneDrive - Curio\Software-Developer-OneDrive\Blok-B\CSD-1\pyReg\pyReg\obj\Debug\net6.0\pyReg.genruntimeconfig.cache
+C:\Users\Ba1al\OneDrive - Curio\Software-Developer-OneDrive\Blok-B\CSD-1\pyReg\pyReg\obj\Debug\net6.0\ref\pyReg.dll
